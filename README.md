@@ -51,3 +51,4 @@ Para ter o acesso da base de dados local pelo Data Studio que está na web, deve
 ![image](https://user-images.githubusercontent.com/81119854/156420111-bdb1b049-e985-4e23-815d-36081d879b19.png)
 ![image](https://user-images.githubusercontent.com/81119854/156420156-ef252e8a-bc81-4b14-94a1-a8adb1fcb830.png)
 
+* *A instância foi criada para permitir o acesso remoto ao banco de dados.*
