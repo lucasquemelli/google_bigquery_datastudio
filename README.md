@@ -8,3 +8,4 @@ Este repositório contém os estudos para o curso: Formação Google Big Query e
 # Google Data Studio: Acessando o MySQL
 
 **Porta 3306:** Porta de acesso padrão ao MySQL.
+**pla:** planilha.
