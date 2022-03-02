@@ -44,3 +44,10 @@ Para ter o acesso da base de dados local pelo Data Studio que está na web, deve
 - Ativar API:
 
 ![image](https://user-images.githubusercontent.com/81119854/156418893-01a6b503-234b-4a64-bc33-796860b6e4ab.png)
+
+- Criar instância SQL:
+
+![image](https://user-images.githubusercontent.com/81119854/156420048-2ba27571-ad11-4789-b4ab-cbf60ae1b85a.png)
+![image](https://user-images.githubusercontent.com/81119854/156420111-bdb1b049-e985-4e23-815d-36081d879b19.png)
+![image](https://user-images.githubusercontent.com/81119854/156420156-ef252e8a-bc81-4b14-94a1-a8adb1fcb830.png)
+
