@@ -28,3 +28,7 @@ Para ter o acesso da base de dados local pelo Data Studio que está na web, deve
 5. Criar e popular o nosso banco exemplo;
 6. Configurar o Data Studio para acessar o MySQL BD;
 7. Construção de relatórios. 
+
+- SQL:
+
+![image](https://user-images.githubusercontent.com/81119854/156418277-b4d20712-1f1d-419c-a0d9-19c395644b3a.png)
