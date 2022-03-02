@@ -18,3 +18,13 @@ Para ter o acesso da base de dados local pelo Data Studio que está na web, deve
 - Vamos construir a estrutura abaixo: 
 
 ![image](https://user-images.githubusercontent.com/81119854/156403437-fb83fac1-e505-419b-bfc9-a5dbe1463272.png)
+
+**Etapas** 
+
+1. Criar uma conta na Google Cloud;
+2. Criar um banco de dados MySQL;
+3. Instalar o MySQL Workbench;
+4. Criar uma conexão entre o MySQL Workbench e o MySQL BD;
+5. Criar e popular o nosso banco exemplo;
+6. Configurar o Data Studio para acessar o MySQL BD;
+7. Construção de relatórios. 
