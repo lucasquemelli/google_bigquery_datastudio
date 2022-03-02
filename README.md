@@ -14,3 +14,7 @@ Este repositório contém os estudos para o curso: Formação Google Big Query e
 Para ter o acesso da base de dados local pelo Data Studio que está na web, devemos abrir no Firewall a porta 3306, colocar um IP público para permitir o acesso remoto e ativar o protocolo HTTPS para ser certificado por segurança.
 
 ![image](https://user-images.githubusercontent.com/81119854/156402197-417a3bfb-8280-425f-bb69-27c41852fa0d.png)
+
+- Vamos construir a estrutura abaixo: 
+
+![image](https://user-images.githubusercontent.com/81119854/156403437-fb83fac1-e505-419b-bfc9-a5dbe1463272.png)
