@@ -36,3 +36,8 @@ Para ter o acesso da base de dados local pelo Data Studio que está na web, deve
 - Criar instância:
 
 ![image](https://user-images.githubusercontent.com/81119854/156418531-e4060908-00fc-4844-a813-8cb6784e3014.png)
+
+- MySQL:
+
+![image](https://user-images.githubusercontent.com/81119854/156418678-a2441fc1-ecf2-430b-9a4b-5bd7ee0703fe.png)
+
