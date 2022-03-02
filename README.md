@@ -8,6 +8,7 @@ Este repositório contém os estudos para o curso: Formação Google Big Query e
 # Google Data Studio: Acessando o MySQL
 
 **- Porta 3306:** Porta de acesso padrão ao MySQL.
+
 **- pla:** planilha.
 
 Para ter o acesso da base de dados local pelo Data Studio que está na web, devemos abrir no Firewall a porta 3306, colocar um IP público para permitir o acesso remoto e ativar o protocolo HTTPS para ser certificado por segurança.
